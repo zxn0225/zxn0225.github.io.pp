@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 服务条款及隐私政策
 
-You can use the [editor on GitHub](https://github.com/zxn0225/zxn0225.github.io.pp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本软件尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本软件会按照本隐私权政策的规定使用和披露您的个人信息。但本软件将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本软件不会将这些信息对外披露或向第三方提供。本软件会不时更新本隐私权政策。您在同意本软件服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本软件服务使用协议不可分割的一部分
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1.适用范围
+a)在您使用本软件网络服务，本软件不会接收并记录的您的手机上的信息，包括您使用的功能信息、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据。
 
-### Markdown
+### 2.信息的使用
+a)在获得您的数据之后，本软件不会将其上传至外网。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 3.信息披露
+a)本软件不会将您的信息披露给不受信任的第三方。
 
-```markdown
-Syntax highlighted code block
+b)根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zxn0225/zxn0225.github.io.pp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+c)如您出现违反中国有关法律、法规或者相关规则的情况，需要向第三方披露。
